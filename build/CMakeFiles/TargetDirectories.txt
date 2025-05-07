@@ -1,0 +1,7 @@
+/Users/aleksaraev/projects/document_scanner/build/CMakeFiles/nfd.dir
+/Users/aleksaraev/projects/document_scanner/build/CMakeFiles/document_scanner.dir
+/Users/aleksaraev/projects/document_scanner/build/CMakeFiles/edit_cache.dir
+/Users/aleksaraev/projects/document_scanner/build/CMakeFiles/rebuild_cache.dir
+/Users/aleksaraev/projects/document_scanner/build/external/imgui/CMakeFiles/imgui.dir
+/Users/aleksaraev/projects/document_scanner/build/external/imgui/CMakeFiles/edit_cache.dir
+/Users/aleksaraev/projects/document_scanner/build/external/imgui/CMakeFiles/rebuild_cache.dir
